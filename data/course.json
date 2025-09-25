@@ -1,0 +1,55 @@
+{
+  "term": "Spring",
+  "year": "2000",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Engineering",
+      "Biological Engineering",
+      "Computational Biology"
+    ],
+    [
+      "Science",
+      "Biology",
+      "Cell Biology"
+    ],
+    [
+      "Science",
+      "Biology",
+      "Molecular Biology"
+    ]
+  ],
+  "legacy_uid": "206e4fe4-343e-52c0-682e-a5ba67adb6a6",
+  "instructors": {
+    "content": [
+      "5495d010-5847-b8a1-2542-edb7a456bbed"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "439b9e66-03c1-22d6-d14e-25d3cc3a7304",
+    "website": "9-530-cellular-and-molecular-computation-spring-2000"
+  },
+  "course_title": "Cellular and Molecular Computation",
+  "hide_download": true,
+  "course_description": "Life as an emergent property of networks of chemical reactions involving proteins and nucleic acids. Mathematical theories of metabolism, gene regulation, signal transduction, chemotaxis, excitability, motility, mitosis, development, and immunity. Applications to directed molecular evolution, DNA computing, and metabolic and genetic engineering.\n",
+  "department_numbers": [
+    "9"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "9.530",
+  "course_image_thumbnail": {
+    "content": "ab4be60d-83da-b4bd-c3f9-91406460c99d",
+    "website": "9-530-cellular-and-molecular-computation-spring-2000"
+  },
+  "hide_download_original": true,
+  "learning_resource_types": [
+    "Problem Sets"
+  ],
+  "site_uid": "9509b4ce-a1af-4a94-baaa-a359b45eb694",
+  "site_short_id": "9.530-spring-2000",
+  "site_url_path": "courses/9-530-cellular-and-molecular-computation-spring-2000",
+  "title": "Course Metadata"
+}
